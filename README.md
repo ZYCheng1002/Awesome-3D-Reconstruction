@@ -6,6 +6,12 @@
 
 # Overview
 
+## Learning Based
+|              Title              |     Date     |    Code    |   Paper   |    Note    |
+| :-----------------------------: | :----------: | :--------: | :-------: | :--------: |
+| ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association | 2025-9 | [Github](https://github.com/zhangganlin/vista-slam) | [arxiv](https://arxiv.org/abs/2505.12549) | - |
+| VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold | 2025-5 | [Github](https://github.com/MIT-SPARK/VGGT-SLAM) | [arxiv](https://arxiv.org/abs/2509.01584) | - |
+
 ## Gaussian Splatting
 |              Title              |     Date     |    Code    |   Paper   |    Note    |
 | :-----------------------------: | :----------: | :--------: | :-------: | :--------: |
