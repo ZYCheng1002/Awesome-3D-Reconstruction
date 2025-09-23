@@ -21,4 +21,9 @@
 | 3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS | 2025-4 | [Github](https://github.com/zsh523/3rgs) | [arxiv](https://arxiv.org/abs/2504.04294) | Learning Based |
 | 3D Gaussian Splatting for Real-Time Radiance Field Rendering | 2023-8 | [Github](https://github.com/graphdeco-inria/gaussian-splatting) | [paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) | - |
 
-## Lidar SLAM
+## Lidar/Visual SLAM
+|              Title              |     Date     |    Code    |   Paper   |    Note    |
+| :-----------------------------: | :----------: | :--------: | :-------: | :--------: |
+| FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry | 2024-8 | [Github](https://github.com/hku-mars/FAST-LIVO2) | [paper](https://arxiv.org/pdf/2408.14035) | 3DGS in |
+| R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package | 2022-5 | [Github](https://github.com/hku-mars/r3live) | [paper](https://github.com/hku-mars/r3live/blob/master/papers/R3LIVE%20--%20A%20Robust%2C%20Real-time%2C%20RGB-colored%2C%20LiDAR-Inertial-Visual%20tightly-coupled%20stateEstimation%20and%20mapping%20package.pdf) | - |
+| FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry | 2022-3 | [Github](https://github.com/hku-mars/FAST-LIVO) | [arxiv](https://arxiv.org/abs/2203.00893) | - |
