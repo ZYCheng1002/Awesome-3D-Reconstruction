@@ -21,6 +21,8 @@
 | ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation | 2025-10 | [Github](https://github.com/InternRobotics/ARTDECO) | [arxiv](https://arxiv.org/abs/2510.08551) | - |
 | LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos | 2025-8 | [Github](https://github.com/NVlabs/LongSplat) | [arxiv](https://arxiv.org/abs/2508.14041) | Learning Based |
 | 3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS | 2025-4 | [Github](https://github.com/zsh523/3rgs) | [arxiv](https://arxiv.org/abs/2504.04294) | Learning Based |
+| VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes | 2025-1 | [Github](https://github.com/Fudan-MAGIC-Lab/VINGS-Mono) | [arxiv](https://arxiv.org/abs/2501.08286) | SLAM |
+| RGBD GS-ICP SLAM | 2024-3 | [Github](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) | [arxiv](https://arxiv.org/abs/2403.12550) | SLAM |
 | 3D Gaussian Splatting for Real-Time Radiance Field Rendering | 2023-8 | [Github](https://github.com/graphdeco-inria/gaussian-splatting) | [paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) | - |
 
 ## Lidar/Visual SLAM
